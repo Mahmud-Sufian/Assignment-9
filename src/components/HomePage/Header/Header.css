@@ -1,0 +1,21 @@
+
+nav{
+    /* text-align: center; */
+    display: flex;
+    flex-direction: column; 
+    justify-content: center; 
+}
+nav a{
+    margin-right: 30px;
+    font-size: 20px;
+}
+nav a:hover{
+ color: white;
+}
+.icon-nav{
+    font-size: 20px;
+    padding: 10px;  
+}
+.icon-nav:hover {
+    color: white;
+}

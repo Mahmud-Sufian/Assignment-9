@@ -1,0 +1,8 @@
+[
+    {"id": 1, "name": "Jhankar Mahbub", "comment": "Excellent work", "rating": 4.5},
+    {"id": 2, "name": "Mahmud Sufian", "comment": "Carry on your work", "rating": 3.5},
+    {"id": 3, "name": "Ariful Islam", "comment": "Nice work", "rating": 2.5},
+    {"id": 4, "name": "Robiul Abedin", "comment": "Wow wonderful", "rating": 4.5},
+    {"id": 5, "name": "Tanvir Imdad", "comment": "Greats work", "rating": 3.5},
+    {"id": 6, "name": "Fahim Ahmed", "comment": "Dashing JS", "rating": 5}
+]
